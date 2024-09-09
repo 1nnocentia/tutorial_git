@@ -23,4 +23,4 @@ X_train.shape, y_train.shape
 
 ## References
 
-1. Di scikit-learn documentain
+1. Di scikit-learn documention
